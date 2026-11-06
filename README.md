@@ -1,41 +1,55 @@
-Daniel Langner Jager
-Estudante de Ciência da Computação | Desenvolvedor em formação
-Curitiba, Paraná · PUCPR · 4º período
+# Olá, eu sou o Daniel Langner Jager! 👋
 
-LinkedIn Portfólio E-mail
+### 🎓 Estudante de Ciência da Computação | 💻 Desenvolvedor em Formação
+📍 **Curitiba, Paraná** — *PUCPR (4º Período | Conclusão: Dez/2028)*
 
-sobre_mim
-text
+---
 
+## 🚀 Sobre Mim
 
-Estudante de Ciência da Computação na PUCPR.
-Aprendo criando projetos e gosto de transformar ideias em soluções úteis.
-Tenho experiência acadêmica com Python, C e bancos de dados,
-além de atuação com suporte técnico de hardware.
-Tecnologias
-Python C SQL HTML5 CSS3 JavaScript básico
+Sou estudante de Ciência da Computação na **PUCPR**, movido pelo aprendizado prático: **aprendo criando projetos** e transformando ideias em soluções úteis e funcionais. 
 
-Também utilizo: Git · GitHub · Processing · Construct 3 · Modelagem de bancos de dados · Manutenção de hardware
+- 💻 **Foco Acadêmico & Prático:** Experiência no desenvolvimento com C, Python, Java e modelagem/estruturação de bancos de dados.
+- 🛠️ **Suporte & Hardware:** Atuação prática em diagnóstico, manutenção e atendimento técnico na Clínica de TIC (PUCPR).
+- 🌱 **Inovação & Empreendedorismo:** Participante do PIBEP 2026 com o protótipo *OrganizaEstoque IA*.
+- 🤝 **Voluntariado & Comunidade:** Ensino de inglês no *Projeto Thank You* e condução de oficinas comunitárias na *Semana Mundial do Brincar*.
 
-Projetos
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
+### **Linguagens & Banco de Dados**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Projeto	Tecnologias	Sobre
-Gen-X	Banco de dados · Web	Projeto de extensão com modelagem, estruturação e integração do banco de dados à aplicação. Calcula um score de risco relacionado à Síndrome do X Frágil para apoiar o encaminhamento a exame molecular.
-Sistema de Análise Nutricional	C · Bubble Sort	Organização de listas e geração de relatórios por categoria usando o algoritmo Bubble Sort.
-Máquina de Vendas	Python	Lógica para calcular troco em cédulas e moedas, com validação das entradas.
-Rage Fruits	Construct 3	Participação no design, no gameplay e na física dos inimigos de um jogo publicado para navegador.
-Experiência e comunidade
-Técnico de Informática — Clínica de TIC, PUCPR: diagnóstico, manutenção e reparo de hardware, além de atendimento aos usuários.
-PIBEP 2026 — PUCPR: participação no protótipo do OrganizaEstoque IA, com validação da ideia, pesquisa de mercado e produção do vídeo de apresentação.
-Projeto Thank You: ensino de inglês para crianças em situação de vulnerabilidade.
-Semana Mundial do Brincar: condução de oficina de movimento na Vila Torres.
-Formação
-Bacharelado em Ciência da Computação — PUCPR
-Em andamento · 4º período · Conclusão prevista: dezembro de 2028
+### **Outras Ferramentas & Competências**
+- **Desenvolvimento & Ferramentas:** Git · GitHub · Processing · Construct 3
+- **Modelagem & Suporte:** Modelagem de Bancos de Dados · Manutenção de Hardware
 
-Idiomas
-Português — nativo
-Inglês — B1
-Alemão — B1
+---
+
+## 💻 Projetos em Destaque
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| 🧬 **[Gen-X](#)** | Banco de Dados, Web | Projeto de extensão focado na modelagem e integração de BD. Calcula o score de risco da *Síndrome do X Frágil* para suporte ao encaminhamento de exames moleculares. |
+| 🥗 **[Sistema de Análise Nutricional](#)** | C, Bubble Sort | Aplicação em C para organização de listas e geração de relatórios de análise nutricional por categoria. |
+| 🪙 **[Máquina de Vendas](#)** | Python | Algoritmo para cálculo automatizado de troco em cédulas e moedas com validação de entradas. |
+| 🎮 **[Rage Fruits](#)** | Construct 3 | Jogo publicado para navegador, atuando na física de inimigos, gameplay e game design. |
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 **Português:** Nativo
+- 🇺🇸 **Inglês:** Intermediário (B1)
+- 🇩🇪 **Alemão:** Intermediário (B1)
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
